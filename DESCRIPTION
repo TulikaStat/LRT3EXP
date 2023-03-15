@@ -1,0 +1,11 @@
+Package: LRT3EXP
+Type: Package
+Title: Provides test statistic value and its critical point.
+Version: 0.1.0
+Author: Tulika Rudra Gupta
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Provides LRT statistic and its critical value  along with ALRT statisc value for three population Exponential model with mean theta.    
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
